@@ -1,0 +1,23 @@
+{
+    "Productos":
+    [
+        {
+            "id":1691645696445,
+            "title":"producto prueba",
+            "description":"Este es un producto prueba",
+            "price":200,"thumbnail":"Sin imagen",
+            "code":"abc123"
+            ,"stock":25
+        }
+        ,
+        {
+            "id":1691645696450,
+            "title":"producto prueba",
+            "description":"Este es un producto prueba",
+            "price":200,
+            "thumbnail":"Sin imagen",
+            "code":"x4a6s",
+            "stock":25
+        }
+    ]
+}
